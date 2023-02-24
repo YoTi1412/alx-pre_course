@@ -1,7 +1,3 @@
 #!/bin/bash
 
-<<<<<<< HEAD
 echo "ALX school"
-=======
-echo "ALX School is so cool!"
->>>>>>> master
